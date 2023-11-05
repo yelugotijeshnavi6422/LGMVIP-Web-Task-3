@@ -72,9 +72,3 @@ for (const user of storedUsers) {
     cell6.appendChild(img); // Append the <img> element to the cell
 
 }
-quot;img&quot;);<br>=C2=A0 =C2=A0 img.src =3D user.image; // Set the image =
-source<br>=C2=A0 =C2=A0 img.className =3D &quot;user-image&quot;; // Add th=
-e user-image class<br>=C2=A0 =C2=A0 cell6.appendChild(img); // Append the &=
-lt;img&gt; element to the cell<br>=C2=A0 =C2=A0 <br>}<br></div>
-
---0000000000002a0f33060966748a--
