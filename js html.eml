@@ -1,0 +1,115 @@
+MIME-Version: 1.0
+Date: Sun, 5 Nov 2023 17:27:29 +0530
+Message-ID: <CACJEbqbKr4bzaP-0Hey3RHr_ciniYqGgUhuwLs6aZbWNfE_qCQ@mail.gmail.com>
+Subject: js html
+From: C-65-5I9- YELUGOTI JESHNAVI <209y1a05i9@ksrmce.ac.in>
+To: C-65-5I9- YELUGOTI JESHNAVI <209y1a05i9@ksrmce.ac.in>
+Content-Type: multipart/alternative; boundary="00000000000036445c0609667116"
+
+--00000000000036445c0609667116
+Content-Type: text/plain; charset="UTF-8"
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Student Enrollment Form</title>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="form-container">
+            <h2>Registration Form</h2>
+            <form id="registration-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" required>
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" required>
+                <label for="image">Image Link:</label>
+                <input type="url" id="image" required>
+                <label for="gender">Gender:</label>
+                <select id="gender" required>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+                <label for="skills">Skills:</label>
+                <input type="text" id="skills" required>
+
+                <button type="submit">Register</button>
+            </form>
+        </div>
+        <div class="details-container">
+            <h2>User Details</h2>
+            <table id="user-details">
+                <!-- Display user details here -->
+            </table>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
+
+--00000000000036445c0609667116
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">&lt;!DOCTYPE html&gt;<br>&lt;html lang=3D&quot;en&quot;&gt=
+;<br><br>&lt;head&gt;<br>=C2=A0 =C2=A0 &lt;meta charset=3D&quot;UTF-8&quot;=
+&gt;<br>=C2=A0 =C2=A0 &lt;meta name=3D&quot;viewport&quot; content=3D&quot;=
+width=3Ddevice-width, initial-scale=3D1.0&quot;&gt;<br>=C2=A0 =C2=A0 &lt;li=
+nk rel=3D&quot;stylesheet&quot; href=3D&quot;style.css&quot;&gt;<br>=C2=A0 =
+=C2=A0 &lt;title&gt;Student Enrollment Form&lt;/title&gt;<br><br>&lt;/head&=
+gt;<br><br>&lt;body&gt;<br><br>=C2=A0 =C2=A0 &lt;div class=3D&quot;containe=
+r&quot;&gt;<br><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;div class=3D&quot;form-c=
+ontainer&quot;&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;h2&gt;R=
+egistration Form&lt;/h2&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &l=
+t;form id=3D&quot;registration-form&quot;&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;label for=3D&quot;name&quot;&gt;Name:&l=
+t;/label&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt=
+;input type=3D&quot;text&quot; id=3D&quot;name&quot; required&gt;<br>=C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;label for=3D&quot;ema=
+il&quot;&gt;Email:&lt;/label&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 &lt;input type=3D&quot;email&quot; id=3D&quot;email&quot;=
+ required&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &l=
+t;label for=3D&quot;phone&quot;&gt;Phone:&lt;/label&gt;<br>=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;input type=3D&quot;tel&quot; =
+id=3D&quot;phone&quot; required&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 &lt;label for=3D&quot;image&quot;&gt;Image Link:&lt;/l=
+abel&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;inp=
+ut type=3D&quot;url&quot; id=3D&quot;image&quot; required&gt;<br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;label for=3D&quot;gender&=
+quot;&gt;Gender:&lt;/label&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 &lt;select id=3D&quot;gender&quot; required&gt;<br>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;option v=
+alue=3D&quot;male&quot;&gt;Male&lt;/option&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;option value=3D&quot;fema=
+le&quot;&gt;Female&lt;/option&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;option value=3D&quot;other&quot;&gt;Oth=
+er&lt;/option&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 &lt;/select&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 &lt;label for=3D&quot;skills&quot;&gt;Skills:&lt;/label&gt;<br>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;input type=3D&quot;tex=
+t&quot; id=3D&quot;skills&quot; required&gt;<br><br>=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;button type=3D&quot;submit&quot;&gt;=
+Register&lt;/button&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;/f=
+orm&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;/div&gt;<br>=C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 &lt;div class=3D&quot;details-container&quot;&gt;<br>=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;h2&gt;User Details&lt;/h2&gt;<br>=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;table id=3D&quot;user-details&quot;&gt;=
+<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;!-- Display=
+ user details here --&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;=
+/table&gt;<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;/div&gt;<br>=C2=A0 =C2=A0 &lt=
+;/div&gt;<br>=C2=A0 =C2=A0 &lt;script src=3D&quot;script.js&quot;&gt;&lt;/s=
+cript&gt;<br>&lt;/body&gt;<br><br>&lt;/html&gt;<br></div>
+
+--00000000000036445c0609667116--
